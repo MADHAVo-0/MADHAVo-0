@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CLOUD COMPUTING.
 - 📫 How to reach me MAIL:[madhavraj40459@gmail.com].
 - 😄 Pronouns: HE/HIM.
-- ⚡ Fun fact: getting code output is like getting a girlfriend ,everybody congratulates on getting a gf but nobody how many heartbreaks💔 you have 😂.
+- ⚡ Fun fact: getting code output is like getting a girlfriend ,everybody congratulates on getting a gf but nobody asks how many heartbreaks💔 you have 😂.
 
 <!---
 MADHAVo-0/MADHAVo-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
